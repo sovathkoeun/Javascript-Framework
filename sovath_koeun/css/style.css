@@ -1,0 +1,19 @@
+/* #timer,#dater,#message{
+    text-align: center;
+} */
+
+body{
+    background: url(../t.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(223, 12, 12);
+}
+h1{
+    font-size: 90px;
+}
+h2{
+    font-size: 50px;
+}
